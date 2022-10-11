@@ -1,0 +1,30 @@
+#p1Display,#p2Display{
+background-color: yellow;  
+font-size: 100px;  
+}
+
+#one{
+    color:purple;
+    text-align: center;
+    
+    
+}
+
+    
+#p1Button{
+    color: aqua;
+    background-color: brown;
+    
+}
+#p2Button{
+    color: aqua;
+    background-color: chocolate;
+}
+#reset{
+    color: aqua;
+    background-color: rgb(14, 158, 54);
+}
+#playto{
+ color: aqua;
+    background-color: lightcoral;
+}
